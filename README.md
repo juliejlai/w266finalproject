@@ -15,5 +15,5 @@
 <h2> Resources </h2>
 <ol>
   <li> <a href="https://github.com/keras-team/keras-io/blob/master/examples/nlp/lstm_seq2seq.py">Keras Character-level Recurrent Sequence-to-Sequence Model</a> </li>
-  <li>< a href="https://github.com/devm2024/nmt_keras">Keras Word-level Recurrent Sequence-to-Sequence Model</a> </li>
+  <li> <a href="https://github.com/devm2024/nmt_keras">Keras Word-level Recurrent Sequence-to-Sequence Model</a> </li>
 </ol>
