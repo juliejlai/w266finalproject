@@ -16,4 +16,6 @@
 <ol>
   <li> <a href="https://github.com/keras-team/keras-io/blob/master/examples/nlp/lstm_seq2seq.py">Keras Character-level Recurrent Sequence-to-Sequence Model</a> </li>
   <li> <a href="https://github.com/devm2024/nmt_keras">Keras Word-level Recurrent Sequence-to-Sequence Model</a> </li>
+  <li> <a href="https://github.com/YonglinWang-Brandeis/text-formality-classifier">Text Formality Classifier</a> </li>
+  <li> <a href="https://github.com/marcotcr/lime">Local Interpretable Model-agnostic Explanations (LIME)</a> </li>
 </ol>
