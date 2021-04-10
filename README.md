@@ -5,6 +5,9 @@
 <h2> Objective </h2>
 <p> While several Neural Machine Translation (NMT) models exist for language translation,  notions of style transfer and specifically formality translation are much less common. We aim to compare different iterations of the Keras NMT model on both a character and word level, using the Grammarly's Yahoo Answers Formality Corpus (GYAFC). </p>
 
+<h2> Description </h2>
+<p> You can find the models in .py files and in the .ipynb notebook. Our model outputs are in the folder 'model outputs'. We refrain from adding the GYAFC inputs (informal sentences) and targets (human-translated formal sentences), as their data is for research purposes only. </p>
+
 <h2> Data </h2>
 <p> We used the <a href="https://github.com/raosudha89/GYAFC-corpus">Grammarly's Yahoo Answers Formality Corpus (GYAFC)</a> built from the Yahoo Answers corpus: L6 - Yahoo! Answers Comprehensive Questions and Answers version 1.0. </p>
 
