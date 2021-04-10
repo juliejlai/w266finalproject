@@ -2,10 +2,6 @@
 
 <h2>Group: Katie Cason, Angela Gao, Julie Lai </h2>
 
-### Description (Work in Progress)
-
-<hr>
-
 <h2> Objective </h2>
 <p> While several Neural Machine Translation (NMT) models exist for language translation,  notions of style transfer and specifically formality translation are much less common. We aim to compare different iterations of the Keras NMT model on both a character and word level, using the Grammarly's Yahoo Answers Formality Corpus (GYAFC). </p>
 
